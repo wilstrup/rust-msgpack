@@ -1,7 +1,6 @@
 //! msgpack.org implementation for Rust
 
 #![crate_type = "lib"]
-#![feature(slice_splits)]
 
 extern crate rustc_serialize;
 extern crate byteorder;
